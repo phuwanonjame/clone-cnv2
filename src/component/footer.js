@@ -27,7 +27,7 @@ function Footer() {
         </div>
       </div>
         </section>
-        <section>
+        <section className="pt-10">
             <div className="m-5">
 
        
