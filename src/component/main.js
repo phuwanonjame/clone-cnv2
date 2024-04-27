@@ -274,7 +274,7 @@ function Main() {
       <section className=" mt-10">
         <div className=" flex justify-center items-center">
           <div className=" grid grid-cols-4 gap-10 max-lg:grid-cols-2 max-lg:p-5 max-lg:gap-2">
-            <div className=" text-center">
+            <div className="  text-center">
               <img
                 className=" w-96"
                 src="https://www.carnivalbkk.com/media/amasty/bannerslider/377447789_6754633794591438_7516518544072122127_n_0.jpg"
